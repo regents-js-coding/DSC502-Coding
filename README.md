@@ -1,1 +1,1 @@
-# dsc502-coding
+# DSC502-coding
