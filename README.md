@@ -1,1 +1,1 @@
-# js-coding-template
+# dsc502-coding
