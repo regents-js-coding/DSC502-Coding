@@ -1,0 +1,151 @@
+trip_id,customer_name,customer_city,driver_name,vehicle_type,driver_rating,trip_date,pickup_city,fare,distance_km,duration_mins,status,rating,review_text
+TRP0001,Maya Taylor,Manchester,James Patel,Standard,3.8,2024-03-09,London,14.43,9.5,73,Completed,5,On time and friendly.
+TRP0002,Noah Wilson,Bristol,Aisha Kofi,Standard,4.7,2024-07-10,Leeds,38.71,30.3,64,Completed,5,"Great driver, very smooth ride."
+TRP0003,Quinn Jones,Leeds,Priya Sharma,Electric,4.1,2024-05-17,Bristol,3.88,1.3,73,Completed,4,Will use again.
+TRP0004,Bob Brown,Manchester,Aisha Kofi,Standard,4.9,2024-03-23,Leeds,30.87,21.2,69,Completed,,
+TRP0005,Alice Patel,Leeds,Leon Baptiste,Standard,3.6,2024-08-05,London,11.05,5.9,53,Completed,,
+TRP0006,Maya Chen,London,Aisha Kofi,Standard,4.2,2024-10-06,Leeds,36.93,29.1,65,Completed,,
+TRP0007,Tom Patel,Bristol,Leon Baptiste,Standard,3.7,2024-03-01,Manchester,18.78,11.1,57,Completed,1,Long route taken.
+TRP0008,Priya Chen,Birmingham,Sarah Chen,Electric,4.8,2024-07-04,Manchester,32.42,24.1,6,Cancelled,,
+TRP0009,Bob Brown,Manchester,Leon Baptiste,Standard,4.1,2024-07-23,Leeds,21.1,15.1,16,Completed,5,Will use again.
+TRP0010,Olivia Chen,Birmingham,Aisha Kofi,Standard,4.5,2024-06-08,London,41.22,30.7,32,Completed,5,"Great driver, very smooth ride."
+TRP0011,Olivia Taylor,Birmingham,Sarah Chen,Electric,4.3,2024-12-16,Birmingham,36.99,27.8,37,Completed,5,On time and friendly.
+TRP0012,Jack Taylor,Bristol,Mei Zhang,Executive,3.8,2024-06-21,Manchester,19.41,12.7,42,Completed,4,Excellent service.
+TRP0013,Noah Chen,Leeds,Priya Sharma,Electric,4.5,2024-01-02,London,24.03,18.1,71,Completed,4,Will use again.
+TRP0014,Grace Williams,Leeds,Mei Zhang,Executive,4.3,2024-11-16,Bristol,37.34,27.1,82,Completed,3,"Fine, nothing special."
+TRP0015,Jack Jones,Bristol,Marcus Obi,Executive,4.9,2024-08-01,Birmingham,20.05,13.6,80,Cancelled,,
+TRP0016,Jack Chen,London,Leon Baptiste,Standard,4.1,2024-03-29,Birmingham,22.05,16.7,21,Completed,5,Will use again.
+TRP0017,Ravi Patel,Birmingham,Tom Walsh,Executive,3.8,2024-08-25,Bristol,39.94,29.7,28,Completed,5,On time and friendly.
+TRP0018,Carol Davis,Manchester,Mei Zhang,Executive,4.3,2024-02-28,Birmingham,35.51,28.1,88,Completed,1,Long route taken.
+TRP0019,Alice Wilson,Birmingham,Leon Baptiste,Standard,3.9,2024-03-10,Bristol,41.85,32.3,11,Completed,1,Long route taken.
+TRP0020,Faisal Ahmed,London,Leon Baptiste,Standard,3.8,2024-04-06,London,23.59,17.5,89,Completed,,
+TRP0021,Grace Davis,Manchester,Priya Sharma,Electric,4.5,2024-09-30,London,33.51,26.3,21,Completed,,
+TRP0022,Carol Smith,Bristol,Leon Baptiste,Standard,3.7,2024-04-28,Bristol,31.41,21.7,25,Completed,5,Will use again.
+TRP0023,Grace Williams,Manchester,Sarah Chen,Electric,3.7,2024-11-25,Bristol,32.51,25.8,53,Completed,4,Will use again.
+TRP0024,Tom Jones,Manchester,James Patel,Standard,4.7,2024-07-10,Birmingham,15.72,11.7,55,Completed,4,On time and friendly.
+TRP0025,Alice Williams,Bristol,Tom Walsh,Executive,3.9,2024-09-09,Leeds,35.62,28.3,25,Cancelled,,
+TRP0026,Kavya Brown,Birmingham,Marcus Obi,Executive,4.1,2024-05-18,Bristol,12.54,8.7,7,Completed,5,On time and friendly.
+TRP0027,Faisal Davis,Leeds,Marcus Obi,Executive,3.8,2024-11-27,Birmingham,11.69,6.6,60,Completed,3,Decent enough.
+TRP0028,Emma Patel,Birmingham,Marcus Obi,Executive,5.0,2024-05-10,Manchester,28.06,20.7,5,Completed,5,"Great driver, very smooth ride."
+TRP0029,Faisal Wilson,Manchester,Priya Sharma,Electric,4.2,2024-09-01,Bristol,8.43,4.1,34,Cancelled,,
+TRP0030,Priya Chen,London,Leon Baptiste,Standard,4.4,2024-03-29,Manchester,25.73,17.2,27,Completed,,
+TRP0031,Quinn Davis,Bristol,Sarah Chen,Electric,3.9,2024-09-25,Manchester,32.46,24.4,72,Cancelled,,
+TRP0032,Carol Chen,Birmingham,Priya Sharma,Electric,4.7,2024-06-20,Leeds,13.55,7.4,8,Completed,5,On time and friendly.
+TRP0033,Bob Williams,Manchester,Tom Walsh,Executive,4.9,2024-12-09,Birmingham,5.18,1.3,30,Completed,,
+TRP0034,Liam Taylor,Manchester,Tom Walsh,Executive,4.3,2024-04-11,Leeds,8.81,2.9,50,Completed,,
+TRP0035,Carol Taylor,London,Priya Sharma,Electric,4.9,2024-07-11,Manchester,27.78,19.3,7,Completed,,
+TRP0036,Hassan Brown,Bristol,Tom Walsh,Executive,4.6,2024-02-06,London,23.09,15.8,15,Completed,1,Not impressed.
+TRP0037,Ravi Williams,Birmingham,Priya Sharma,Electric,4.7,2024-05-19,Bristol,16.38,9.3,33,Completed,3,OK trip.
+TRP0038,Jack Wilson,Bristol,Aisha Kofi,Standard,3.8,2024-12-06,Leeds,26.35,18.7,38,Completed,3,"Fine, nothing special."
+TRP0039,Jack Ahmed,Leeds,Leon Baptiste,Standard,4.7,2024-06-13,Bristol,45.8,34.9,73,Completed,5,On time and friendly.
+TRP0040,Carol Wilson,Birmingham,Mei Zhang,Executive,4.6,2024-06-22,Bristol,6.26,3.9,77,Completed,5,On time and friendly.
+TRP0041,Noah Wilson,Bristol,Marcus Obi,Executive,3.5,2024-06-13,Manchester,13.54,7.9,18,Completed,4,On time and friendly.
+TRP0042,Emma Williams,Manchester,Leon Baptiste,Standard,3.7,2024-04-04,Leeds,18.81,14.1,39,Cancelled,,
+TRP0043,Jack Williams,Manchester,Tom Walsh,Executive,4.6,2024-01-18,Bristol,37.54,29.2,55,Completed,2,Not impressed.
+TRP0044,Grace Davis,Birmingham,Mei Zhang,Executive,3.9,2024-05-09,Manchester,22.02,16.6,47,Cancelled,,
+TRP0045,Emma Davis,Manchester,Priya Sharma,Electric,4.4,2024-02-06,Manchester,28.51,19.9,78,Completed,5,"Great driver, very smooth ride."
+TRP0046,Alice Taylor,London,Leon Baptiste,Standard,4.2,2024-02-12,London,14.35,7.6,35,Completed,4,Excellent service.
+TRP0047,Jack Patel,Bristol,Aisha Kofi,Standard,3.6,2024-02-27,Birmingham,7.13,1.9,43,Completed,3,Average.
+TRP0048,Isla Ahmed,Bristol,Priya Sharma,Electric,3.8,2024-03-07,London,34.16,24.9,75,Completed,1,Not impressed.
+TRP0049,Priya Patel,Bristol,Priya Sharma,Electric,4.3,2024-09-22,Bristol,15.25,11.4,80,Completed,,
+TRP0050,Noah Smith,London,Priya Sharma,Electric,4.9,2024-10-12,Birmingham,37.47,29.4,47,Completed,4,"Great driver, very smooth ride."
+TRP0051,Kavya Taylor,Manchester,James Patel,Standard,3.6,2024-11-17,London,23.73,17.1,74,Cancelled,,
+TRP0052,Maya Brown,Bristol,Leon Baptiste,Standard,3.9,2024-04-14,Birmingham,9.27,5.6,17,Completed,5,On time and friendly.
+TRP0053,Sophie Jones,Bristol,Tom Walsh,Executive,5.0,2024-05-21,Leeds,39.72,31.4,21,Completed,3,OK trip.
+TRP0054,Emma Chen,Leeds,James Patel,Standard,3.9,2024-08-10,Leeds,10.28,4.1,8,Completed,3,Average.
+TRP0055,Jack Chen,Bristol,Marcus Obi,Executive,3.7,2024-02-05,Birmingham,26.14,20.1,87,Completed,1,Very late arrival.
+TRP0056,Carol Smith,Manchester,Marcus Obi,Executive,4.2,2024-11-25,Bristol,35.77,26.9,5,Completed,2,Driver was rude.
+TRP0057,Emma Taylor,Manchester,James Patel,Standard,5.0,2024-10-08,Leeds,16.9,10.8,9,Completed,,
+TRP0058,Bob Chen,Bristol,Leon Baptiste,Standard,4.8,2024-09-12,Manchester,15.73,10.7,24,Completed,2,Long route taken.
+TRP0059,Ravi Chen,Leeds,Tom Walsh,Executive,3.8,2024-05-10,Leeds,38.58,29.6,57,Completed,4,Will use again.
+TRP0060,Alice Davis,Manchester,Marcus Obi,Executive,4.6,2024-04-28,Manchester,43.05,31.7,7,Completed,4,Excellent service.
+TRP0061,Isla Brown,Leeds,Priya Sharma,Electric,4.1,2024-05-15,Birmingham,34.64,27.6,75,Completed,5,Excellent service.
+TRP0062,Faisal Brown,Bristol,James Patel,Standard,4.5,2024-01-25,Bristol,21.69,14.6,24,Completed,3,Average.
+TRP0063,Kavya Taylor,Bristol,Priya Sharma,Electric,4.0,2024-04-20,London,10.2,4.0,36,Completed,,
+TRP0064,Hassan Taylor,Manchester,Priya Sharma,Electric,3.6,2024-01-31,London,8.06,3.9,32,Completed,1,Very late arrival.
+TRP0065,Faisal Davis,Leeds,Leon Baptiste,Standard,4.0,2024-03-27,Bristol,42.3,32.4,52,Completed,5,Will use again.
+TRP0066,Faisal Ahmed,Bristol,Mei Zhang,Executive,4.4,2024-06-02,Bristol,22.8,16.2,17,Completed,,
+TRP0067,Olivia Chen,London,Priya Sharma,Electric,4.2,2024-07-14,Leeds,40.2,31.2,12,Completed,,
+TRP0068,David Davis,Leeds,Marcus Obi,Executive,3.7,2024-10-28,Manchester,9.1,5.6,37,Completed,3,"Fine, nothing special."
+TRP0069,Grace Smith,Manchester,Aisha Kofi,Standard,4.9,2024-04-15,Manchester,23.85,18.6,64,Completed,5,Excellent service.
+TRP0070,Kavya Chen,Birmingham,Marcus Obi,Executive,4.5,2024-02-23,Manchester,26.62,20.8,32,Completed,4,Excellent service.
+TRP0071,Kavya Patel,Leeds,Priya Sharma,Electric,4.5,2024-11-26,Leeds,29.16,23.0,8,Completed,3,OK trip.
+TRP0072,David Smith,Leeds,Priya Sharma,Electric,4.5,2024-12-26,London,11.22,6.9,80,Completed,5,Excellent service.
+TRP0073,Maya Patel,Bristol,Aisha Kofi,Standard,4.5,2024-10-02,London,8.23,4.0,15,Completed,,
+TRP0074,Maya Brown,Manchester,Aisha Kofi,Standard,3.6,2024-03-08,Bristol,15.15,9.5,26,Completed,5,On time and friendly.
+TRP0075,Maya Williams,Leeds,James Patel,Standard,3.8,2024-12-29,Bristol,37.42,27.7,89,Completed,,
+TRP0076,Jack Brown,Leeds,James Patel,Standard,3.6,2024-05-27,Birmingham,27.33,20.7,35,Completed,5,"Great driver, very smooth ride."
+TRP0077,Tom Jones,Bristol,James Patel,Standard,3.5,2024-10-29,Manchester,17.2,11.8,22,Cancelled,,
+TRP0078,Hassan Chen,Leeds,Mei Zhang,Executive,3.9,2024-04-10,Leeds,44.65,33.0,41,Cancelled,,
+TRP0079,Bob Chen,Birmingham,Mei Zhang,Executive,4.7,2024-04-15,London,28.13,19.8,27,Completed,4,Will use again.
+TRP0080,Alice Jones,London,James Patel,Standard,3.5,2024-02-14,London,6.02,3.5,39,Completed,4,Will use again.
+TRP0081,Maya Wilson,London,Leon Baptiste,Standard,3.8,2024-04-10,Bristol,25.23,16.7,50,Completed,4,"Great driver, very smooth ride."
+TRP0082,Grace Chen,London,Priya Sharma,Electric,4.6,2024-04-30,Bristol,22.86,16.9,75,Completed,3,"Fine, nothing special."
+TRP0083,Faisal Ahmed,London,James Patel,Standard,3.8,2024-03-28,Leeds,39.49,29.7,38,Completed,4,"Great driver, very smooth ride."
+TRP0084,Tom Ahmed,Bristol,Mei Zhang,Executive,4.4,2024-10-22,Birmingham,24.34,18.6,64,Cancelled,,
+TRP0085,Liam Ahmed,Manchester,Sarah Chen,Electric,4.8,2024-02-04,London,10.6,6.8,72,Completed,5,Excellent service.
+TRP0086,Alice Williams,Leeds,James Patel,Standard,4.5,2024-11-02,London,6.49,3.5,70,Completed,4,Will use again.
+TRP0087,Liam Wilson,Leeds,James Patel,Standard,4.0,2024-12-10,Manchester,12.33,8.1,33,Cancelled,,
+TRP0088,Quinn Wilson,London,Mei Zhang,Executive,4.5,2024-03-05,Leeds,15.13,10.5,27,Completed,4,"Great driver, very smooth ride."
+TRP0089,Quinn Ahmed,Birmingham,Marcus Obi,Executive,4.8,2024-01-08,Leeds,35.91,26.6,39,Cancelled,,
+TRP0090,Carol Patel,Leeds,James Patel,Standard,4.3,2024-04-09,Manchester,39.6,29.1,18,Completed,,
+TRP0091,Noah Williams,Bristol,Leon Baptiste,Standard,4.7,2024-09-23,Leeds,45.71,34.8,63,Cancelled,,
+TRP0092,Sophie Wilson,Birmingham,Aisha Kofi,Standard,4.0,2024-02-22,London,29.46,22.9,25,Completed,2,Driver was rude.
+TRP0093,Hassan Wilson,Leeds,Marcus Obi,Executive,4.0,2024-07-14,Leeds,40.56,29.5,12,Completed,3,"Fine, nothing special."
+TRP0094,Maya Patel,Bristol,Leon Baptiste,Standard,4.5,2024-03-16,Manchester,29.43,20.3,18,Completed,5,Will use again.
+TRP0095,Emma Chen,Bristol,Sarah Chen,Electric,3.6,2024-05-06,Bristol,15.38,10.9,76,Completed,2,Long route taken.
+TRP0096,Faisal Ahmed,Manchester,Aisha Kofi,Standard,3.7,2024-08-25,Leeds,14.52,9.6,53,Completed,,
+TRP0097,Quinn Smith,Manchester,Mei Zhang,Executive,4.3,2024-09-30,London,24.21,16.0,73,Completed,3,Average.
+TRP0098,Sophie Taylor,Leeds,Marcus Obi,Executive,3.8,2024-02-08,Manchester,25.97,19.1,22,Completed,5,"Great driver, very smooth ride."
+TRP0099,Sophie Wilson,Leeds,Marcus Obi,Executive,4.6,2024-07-30,Bristol,22.37,14.7,22,Completed,1,Long route taken.
+TRP0100,Grace Williams,Birmingham,Sarah Chen,Electric,3.9,2024-05-31,Leeds,20.97,13.6,25,Completed,,
+TRP0101,Sophie Davis,London,Priya Sharma,Electric,4.3,2024-05-28,Leeds,7.37,2.2,10,Completed,4,Will use again.
+TRP0102,Kavya Smith,Manchester,Tom Walsh,Executive,4.4,2024-10-18,Bristol,28.41,21.1,30,Cancelled,,
+TRP0103,Carol Ahmed,Bristol,James Patel,Standard,3.8,2024-08-31,Birmingham,9.5,5.0,62,Cancelled,,
+TRP0104,Tom Patel,London,James Patel,Standard,4.1,2024-04-25,Birmingham,42.19,31.5,86,Completed,,
+TRP0105,Isla Brown,Leeds,Aisha Kofi,Standard,4.1,2024-10-17,Birmingham,8.66,4.3,86,Completed,4,On time and friendly.
+TRP0106,Kavya Smith,London,James Patel,Standard,4.1,2024-01-05,Birmingham,27.07,18.7,53,Completed,3,OK trip.
+TRP0107,Sophie Patel,Bristol,James Patel,Standard,4.6,2024-01-20,Bristol,17.25,13.0,42,Completed,,
+TRP0108,Carol Chen,London,Tom Walsh,Executive,3.6,2024-02-13,Bristol,40.07,30.4,43,Cancelled,,
+TRP0109,David Ahmed,Manchester,James Patel,Standard,4.6,2024-07-03,London,18.06,12.1,60,Completed,2,Not impressed.
+TRP0110,Faisal Brown,Bristol,Tom Walsh,Executive,4.8,2024-09-05,London,27.83,21.4,10,Completed,5,Will use again.
+TRP0111,Quinn Chen,Bristol,Leon Baptiste,Standard,4.6,2024-03-31,Manchester,24.33,17.9,62,Completed,,
+TRP0112,Sophie Smith,Birmingham,Leon Baptiste,Standard,3.9,2024-05-02,Birmingham,15.42,11.3,21,Cancelled,,
+TRP0113,Bob Jones,Birmingham,Priya Sharma,Electric,4.4,2024-04-09,Manchester,13.66,8.7,27,Completed,,
+TRP0114,Bob Smith,Birmingham,Marcus Obi,Executive,4.9,2024-08-17,Birmingham,32.39,25.1,33,Completed,2,Long route taken.
+TRP0115,Hassan Jones,Birmingham,Marcus Obi,Executive,3.5,2024-02-12,London,29.96,21.7,89,Completed,1,Very late arrival.
+TRP0116,Tom Chen,Birmingham,Mei Zhang,Executive,4.8,2024-07-27,Manchester,13.95,9.7,44,Completed,4,Excellent service.
+TRP0117,Priya Wilson,Bristol,Aisha Kofi,Standard,4.6,2024-12-23,Bristol,9.2,5.7,76,Completed,4,Will use again.
+TRP0118,Quinn Williams,Birmingham,Tom Walsh,Executive,4.0,2024-05-13,Manchester,15.65,10.8,42,Completed,4,Will use again.
+TRP0119,David Taylor,Manchester,Leon Baptiste,Standard,3.6,2024-08-24,Bristol,21.75,16.7,76,Completed,2,Driver was rude.
+TRP0120,Bob Jones,London,Priya Sharma,Electric,4.2,2024-04-28,Bristol,17.92,11.4,47,Cancelled,,
+TRP0121,Maya Jones,London,Sarah Chen,Electric,4.2,2024-04-14,Bristol,13.01,7.5,23,Cancelled,,
+TRP0122,Ravi Davis,Manchester,Priya Sharma,Electric,3.7,2024-04-04,London,18.76,13.5,13,Completed,4,Will use again.
+TRP0123,Grace Brown,Birmingham,Leon Baptiste,Standard,3.9,2024-09-29,London,28.68,20.5,47,Cancelled,,
+TRP0124,Alice Ahmed,Bristol,Sarah Chen,Electric,4.7,2024-03-12,Manchester,38.39,29.3,49,Completed,5,Will use again.
+TRP0125,Maya Brown,Leeds,Leon Baptiste,Standard,3.8,2024-09-04,Birmingham,7.98,5.0,89,Completed,4,On time and friendly.
+TRP0126,Olivia Davis,Leeds,Sarah Chen,Electric,3.5,2024-06-07,London,2.97,1.0,5,Completed,4,Excellent service.
+TRP0127,Maya Jones,Bristol,James Patel,Standard,4.2,2024-03-04,Leeds,24.53,16.4,90,Completed,3,OK trip.
+TRP0128,Bob Jones,London,Leon Baptiste,Standard,3.8,2024-07-23,Bristol,6.21,3.2,33,Completed,4,"Great driver, very smooth ride."
+TRP0129,Quinn Williams,London,Marcus Obi,Executive,4.0,2024-12-08,Manchester,19.76,13.2,5,Completed,1,Driver was rude.
+TRP0130,Olivia Jones,London,Marcus Obi,Executive,4.1,2024-03-27,London,42.05,30.8,63,Completed,5,Excellent service.
+TRP0131,Alice Patel,Birmingham,Aisha Kofi,Standard,4.4,2024-07-18,London,8.15,2.9,75,Completed,2,Long route taken.
+TRP0132,Tom Wilson,London,Marcus Obi,Executive,3.7,2024-06-03,Birmingham,11.28,6.9,17,Completed,5,Excellent service.
+TRP0133,Grace Davis,Manchester,Tom Walsh,Executive,4.2,2024-09-15,London,8.6,5.4,43,Completed,,
+TRP0134,Ravi Patel,Bristol,Leon Baptiste,Standard,4.1,2024-04-06,London,9.84,5.5,57,Cancelled,,
+TRP0135,Sophie Jones,Manchester,Priya Sharma,Electric,4.1,2024-01-03,London,17.56,10.9,35,Cancelled,,
+TRP0136,Maya Wilson,Bristol,Mei Zhang,Executive,4.9,2024-08-02,London,25.44,18.2,44,Completed,3,"Fine, nothing special."
+TRP0137,Faisal Smith,Bristol,Priya Sharma,Electric,3.5,2024-04-15,Birmingham,21.21,14.9,12,Completed,4,Will use again.
+TRP0138,Liam Chen,Leeds,Priya Sharma,Electric,4.3,2024-05-01,Manchester,43.13,31.9,22,Completed,5,Excellent service.
+TRP0139,David Wilson,Manchester,Tom Walsh,Executive,4.9,2024-01-12,Bristol,39.68,28.9,35,Completed,3,Average.
+TRP0140,Grace Davis,Leeds,James Patel,Standard,3.7,2024-10-01,Leeds,41.38,33.0,53,Completed,5,Will use again.
+TRP0141,David Jones,Manchester,Priya Sharma,Electric,4.0,2024-08-16,Leeds,19.54,12.6,58,Completed,5,"Great driver, very smooth ride."
+TRP0142,Isla Davis,London,James Patel,Standard,3.6,2024-12-08,Bristol,11.27,5.8,83,Completed,3,OK trip.
+TRP0143,Carol Patel,Bristol,Aisha Kofi,Standard,3.9,2024-01-22,Birmingham,25.82,17.3,57,Completed,5,On time and friendly.
+TRP0144,Jack Williams,London,Marcus Obi,Executive,4.7,2024-04-19,Leeds,38.94,28.3,78,Cancelled,,
+TRP0145,Kavya Smith,Leeds,Leon Baptiste,Standard,3.5,2024-07-10,London,35.62,26.9,38,Completed,4,Excellent service.
+TRP0146,Liam Wilson,Leeds,Leon Baptiste,Standard,3.7,2024-04-11,Leeds,28.76,22.5,60,Completed,1,Long route taken.
+TRP0147,Liam Ahmed,Manchester,Marcus Obi,Executive,3.7,2024-12-05,Bristol,19.34,12.0,35,Completed,,
+TRP0148,Jack Jones,Birmingham,Tom Walsh,Executive,3.6,2024-05-14,Manchester,44.57,35.0,84,Completed,5,Excellent service.
+TRP0149,Grace Taylor,Bristol,Marcus Obi,Executive,4.8,2024-12-23,London,39.58,30.1,19,Completed,,
+TRP0150,Alice Davis,Manchester,Tom Walsh,Executive,4.5,2024-10-07,London,8.38,2.8,45,Cancelled,,
