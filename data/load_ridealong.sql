@@ -1,11 +1,11 @@
 -- load_ridealong.sql
 -- Run this once to load all RideAlong tables into DuckDB.
--- In notebook: import duckdb; con = duckdb.connect(); con.execute(open('../data/load_ridealong.sql').read())
+-- In the notebook: con.execute(open('../data/load_ridealong.sql').read())
 
-DROP TABLE IF EXISTS ra_reviews;
-DROP TABLE IF EXISTS ra_trips;
-DROP TABLE IF EXISTS ra_drivers;
-DROP TABLE IF EXISTS ra_customers;
+DROP TABLE IF EXISTS reviews;
+DROP TABLE IF EXISTS trips;
+DROP TABLE IF EXISTS drivers;
+DROP TABLE IF EXISTS customers;
 
 CREATE TABLE customers AS
     SELECT * FROM read_csv_auto('../data/ra_customers.csv');

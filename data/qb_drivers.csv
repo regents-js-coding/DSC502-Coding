@@ -1,4 +1,4 @@
-driver_id,name,vehicle_type,rating
+driver_id,name,vehicle_type,average_rating
 1,Sam Evans,Bicycle,4.8
 2,Priya Nair,Motorcycle,4.5
 3,Tom Walsh,Car,4.2
@@ -7,3 +7,5 @@ driver_id,name,vehicle_type,rating
 6,Sofia Garcia,Car,4.6
 7,Dan Foster,Bicycle,4.1
 8,Mei Lin,Motorcycle,4.7
+9,Lucia Ferretti,bicycle,4.6
+10,Kwame Asante,motorbike,4.4
