@@ -1,6 +1,9 @@
 {
   "name": "DSC502 Coding Module",
   "image": "mcr.microsoft.com/devcontainers/python:3.11",
+  "features": {
+    "ghcr.io/anthropics/devcontainer-features/claude-code:1.0": {}
+  },
   "postCreateCommand": "pip install -r requirements.txt && curl -fsSL https://install.duckdb.org | sh && sudo ln -sf $HOME/.duckdb/cli/latest/duckdb /usr/local/bin/duckdb",
   "customizations": {
     "vscode": {
