@@ -1,0 +1,415 @@
+class_date,location,class_type,capacity,bookings,no_shows,waitlist_count,instructor_rating,class_fee,revenue,member_comment
+2026-01-05,Angel,Yoga,24,13,1,0,4.3,12,144,
+2026-01-05,Angel,HIIT,24,16,0,0,4.3,16,256,Mixed feelings about this one. Great workout but the music was too loud to hear the timings.
+2026-01-05,Angel,Yoga,24,14,1,0,4.2,12,156,
+2026-01-05,Clapham,Yoga,20,11,1,0,3.9,12,120,
+2026-01-05,Clapham,HIIT,20,17,1,1,4.3,16,256,
+2026-01-05,Hackney,Pilates,18,12,1,0,4.2,14,154,"Air conditioning wasn't working and the room was boiling. Bit pricey, but the instructor justifies it."
+2026-01-05,Hackney,HIIT,18,18,1,4,4.3,16,272,
+2026-01-05,Ealing,HIIT,16,11,0,0,4.6,16,176,
+2026-01-05,Ealing,HIIT,16,11,0,0,4.7,16,176,Great workout but the music was too loud to hear the timings.
+2026-01-05,Ealing,Pilates,16,11,1,0,4.3,14,140,
+2026-01-07,Angel,Spin,24,17,1,0,4.3,13,208,
+2026-01-07,Angel,Strength,24,18,0,0,4.6,15,270,Studio itself is lovely and bright. Great programming and the coach checked everyone's form.
+2026-01-07,Angel,Spin,24,15,1,0,4.8,13,182,
+2026-01-07,Clapham,Spin,20,16,2,0,4.7,13,182,
+2026-01-07,Clapham,Yoga,20,12,1,0,3.9,12,132,Decent session with a couple of annoyances. Lovely instructor but the room felt cramped.
+2026-01-07,Hackney,HIIT,18,18,1,4,4.3,16,272,Joined the waitlist and got no notification when a place opened.
+2026-01-07,Hackney,Spin,18,17,1,4,4.5,13,208,
+2026-01-07,Hackney,Strength,18,15,1,0,4.3,15,210,
+2026-01-07,Ealing,Yoga,16,7,0,0,4.2,12,84,
+2026-01-07,Ealing,Yoga,16,7,0,0,4.9,12,84,
+2026-01-09,Angel,Spin,24,16,0,0,4.6,13,208,
+2026-01-09,Angel,HIIT,24,18,1,0,3.8,16,272,"Busy as always, but the classes are worth it. Great workout but the music was too loud to hear the timings."
+2026-01-09,Angel,Yoga,24,12,0,0,4.1,12,144,Showers were queuing out of the door again.
+2026-01-09,Clapham,Yoga,20,13,1,0,4.4,12,144,
+2026-01-09,Clapham,Pilates,20,14,1,0,3.9,14,182,"Enjoyed the workout, less keen on everything around it. Fine workout but the late start has become a pattern."
+2026-01-09,Clapham,Spin,20,14,1,0,4.2,13,169,
+2026-01-09,Hackney,Yoga,18,8,1,0,4.8,12,84,
+2026-01-09,Hackney,Spin,18,15,1,0,4.4,13,182,
+2026-01-09,Hackney,HIIT,18,18,1,4,4.4,16,272,"Always full, would pay for an extra class at this time."
+2026-01-09,Ealing,Spin,16,10,1,0,4.7,13,117,"Brilliant ride, the instructor kept the energy high."
+2026-01-09,Ealing,HIIT,16,12,0,0,4.8,16,192,Great energy in the room.
+2026-01-11,Angel,Spin,24,19,1,0,4.6,13,234,
+2026-01-11,Angel,Yoga,24,16,1,0,3.9,12,180,
+2026-01-11,Angel,HIIT,24,19,1,0,4.0,16,288,
+2026-01-11,Clapham,Spin,20,17,2,1,3.9,13,195,"Got off the waitlist at the last minute, didn't have time to get there."
+2026-01-11,Clapham,Yoga,20,14,1,0,4.6,12,156,"Enjoyed the workout, less keen on everything around it."
+2026-01-11,Hackney,Yoga,18,11,1,0,4.3,12,120,
+2026-01-11,Hackney,Spin,18,18,1,2,4.3,13,221,
+2026-01-11,Ealing,Pilates,16,12,1,0,5.0,14,154,
+2026-01-11,Ealing,Yoga,16,9,0,0,5.0,12,108,
+2026-01-13,Angel,HIIT,24,17,1,0,4.7,16,256,
+2026-01-13,Angel,HIIT,24,16,1,0,4.6,16,240,
+2026-01-13,Angel,Yoga,24,13,0,0,4.1,12,156,
+2026-01-13,Clapham,HIIT,20,14,2,0,3.8,16,192,
+2026-01-13,Clapham,Strength,20,16,1,2,4.0,15,225,"Disappointing, to be honest. Not enough weights to go round, lots of waiting."
+2026-01-13,Hackney,Pilates,18,11,1,0,4.8,14,140,
+2026-01-13,Hackney,Strength,18,14,1,0,4.2,15,195,
+2026-01-13,Hackney,Pilates,18,12,1,0,4.0,14,154,"Air conditioning wasn't working and the room was boiling. Far too hot in the studio, struggled to breathe."
+2026-01-13,Ealing,Yoga,16,9,0,0,4.5,12,108,
+2026-01-13,Ealing,HIIT,16,11,1,0,4.5,16,160,"Love the studio, just wish there were more evening slots."
+2026-01-13,Ealing,HIIT,16,11,1,0,4.3,16,160,"Enjoyed the workout, less keen on everything around it. Great workout but the music was too loud to hear the timings."
+2026-01-15,Angel,Yoga,24,14,1,0,4.7,12,156,
+2026-01-15,Angel,Spin,24,18,1,0,3.9,13,221,Changing room was packed and the lockers were all taken.
+2026-01-15,Clapham,HIIT,20,16,2,1,4.2,16,224,
+2026-01-15,Clapham,Pilates,20,13,1,0,4.2,14,168,
+2026-01-15,Clapham,HIIT,20,13,1,0,4.0,16,192,
+2026-01-15,Hackney,Pilates,18,11,0,0,4.6,14,154,
+2026-01-15,Hackney,HIIT,18,18,1,2,3.9,16,272,Great energy but the heat in the room was a lot.
+2026-01-15,Hackney,HIIT,18,18,1,5,4.3,16,272,Far too intense with no real option to scale it down.
+2026-01-15,Ealing,Yoga,16,8,0,0,4.5,12,96,"Great for a first yoga class, nobody rushed me. The pace was calm and the cues were really clear."
+2026-01-15,Ealing,Pilates,16,11,1,0,5.0,14,140,
+2026-01-17,Angel,Strength,24,17,1,0,3.9,15,240,Coach spent most of the time with one person.
+2026-01-17,Angel,Spin,24,17,1,0,4.2,13,208,
+2026-01-17,Angel,Pilates,24,24,2,1,4.3,14,308,Spent weeks on the waitlist and never got a place.
+2026-01-17,Clapham,Strength,20,15,2,0,3.7,15,195,
+2026-01-17,Clapham,Spin,20,17,2,0,4.3,13,195,
+2026-01-17,Hackney,Yoga,18,9,1,0,4.0,12,96,
+2026-01-17,Hackney,Pilates,18,13,1,0,4.6,14,168,
+2026-01-17,Ealing,Pilates,16,13,1,0,4.3,14,168,
+2026-01-17,Ealing,HIIT,16,10,1,0,4.2,16,144,
+2026-01-19,Angel,Pilates,24,24,1,2,4.7,14,322,
+2026-01-19,Angel,HIIT,24,16,1,0,4.1,16,240,
+2026-01-19,Angel,HIIT,24,13,1,0,4.5,16,192,
+2026-01-19,Clapham,HIIT,20,12,1,0,4.3,16,176,
+2026-01-19,Clapham,Yoga,20,12,1,0,4.0,12,132,
+2026-01-19,Hackney,HIIT,18,18,2,2,4.8,16,256,
+2026-01-19,Hackney,Pilates,18,10,1,0,4.4,14,126,
+2026-01-19,Ealing,Spin,16,8,0,0,5.0,13,104,
+2026-01-19,Ealing,HIIT,16,10,0,0,4.7,16,160,
+2026-01-19,Ealing,Spin,16,10,1,0,5.0,13,117,
+2026-01-21,Angel,HIIT,24,16,1,0,4.6,16,240,
+2026-01-21,Angel,Spin,24,13,1,0,4.5,13,156,Exactly what I needed after work. Great playlist and the resistance cues were spot on.
+2026-01-21,Clapham,HIIT,20,14,1,0,3.7,16,208,
+2026-01-21,Clapham,Strength,20,13,1,0,4.3,15,180,
+2026-01-21,Hackney,HIIT,18,18,1,2,4.3,16,272,Great energy but the heat in the room was a lot. Worth every penny.
+2026-01-21,Hackney,Pilates,18,9,1,0,4.4,14,112,"Really precise coaching, felt it in all the right places."
+2026-01-21,Ealing,Pilates,16,10,0,0,4.2,14,140,
+2026-01-21,Ealing,Pilates,16,10,0,0,4.5,14,140,
+2026-01-23,Angel,Strength,24,15,1,0,4.2,15,210,
+2026-01-23,Angel,HIIT,24,16,1,0,4.6,16,240,
+2026-01-23,Angel,HIIT,24,16,1,0,4.8,16,240,
+2026-01-23,Clapham,Yoga,20,11,1,0,4.2,12,120,
+2026-01-23,Clapham,Yoga,20,10,1,0,4.6,12,108,Lovely instructor but the room felt cramped. Fee feels high for a 45 minute class.
+2026-01-23,Clapham,HIIT,20,14,2,0,3.8,16,192,
+2026-01-23,Hackney,HIIT,18,18,1,6,4.8,16,272,
+2026-01-23,Hackney,Spin,18,14,1,0,4.3,13,169,
+2026-01-23,Ealing,HIIT,16,10,1,0,4.2,16,144,
+2026-01-23,Ealing,Spin,16,10,1,0,4.6,13,117,"Enjoyed the workout, less keen on everything around it. Love the studio, just wish there were more evening slots."
+2026-01-23,Ealing,Pilates,16,10,0,0,4.5,14,140,
+2026-01-25,Angel,HIIT,24,19,1,0,4.3,16,288,
+2026-01-25,Angel,Yoga,24,15,1,0,3.9,12,168,
+2026-01-25,Angel,Pilates,24,24,2,5,4.5,14,308,"Instructor explained the why behind each move. Good small-group feel, got proper corrections. Studio itself is lovely and bright."
+2026-01-25,Clapham,Pilates,20,15,2,0,4.6,14,182,Fine workout but the late start has become a pattern.
+2026-01-25,Clapham,Pilates,20,15,1,0,3.7,14,196,Studio is a bit cramped for the size of the class.
+2026-01-25,Clapham,Yoga,20,13,1,0,4.5,12,144,
+2026-01-25,Hackney,Pilates,18,11,1,0,4.9,14,140,
+2026-01-25,Hackney,HIIT,18,18,1,3,3.9,16,272,Great energy but the heat in the room was a lot. Great workout but the music was too loud to hear the timings.
+2026-01-25,Ealing,Yoga,16,9,0,0,5.0,12,108,
+2026-01-25,Ealing,Spin,16,11,0,0,4.2,13,143,"Calm, friendly studio, the staff remember your name."
+2026-01-27,Angel,Spin,24,14,1,0,4.9,13,169,Easy to get to straight from the Tube.
+2026-01-27,Angel,HIIT,24,15,1,0,4.4,16,224,Left feeling a bit underwhelmed. Music so loud I couldn't hear the instructions.
+2026-01-27,Angel,Yoga,24,13,1,0,4.4,12,144,
+2026-01-27,Clapham,Spin,20,12,1,0,4.3,13,143,
+2026-01-27,Clapham,HIIT,20,12,1,0,4.4,16,176,
+2026-01-27,Clapham,Pilates,20,13,1,0,4.6,14,168,
+2026-01-27,Hackney,Pilates,18,9,1,0,4.5,14,112,
+2026-01-27,Hackney,Yoga,18,9,1,0,3.9,12,96,
+2026-01-27,Ealing,Spin,16,9,0,0,4.6,13,117,
+2026-01-27,Ealing,Pilates,16,9,1,0,4.7,14,112,
+2026-01-27,Ealing,HIIT,16,10,1,0,4.8,16,144,
+2026-01-29,Angel,Spin,24,14,1,0,4.8,13,169,
+2026-01-29,Angel,Spin,24,13,1,0,4.1,13,156,
+2026-01-29,Angel,Yoga,24,12,1,0,4.2,12,132,The music was distracting during the relaxation.
+2026-01-29,Clapham,Spin,20,13,2,0,4.6,13,143,
+2026-01-29,Clapham,Yoga,20,10,1,0,3.7,12,108,
+2026-01-29,Clapham,Pilates,20,14,2,0,4.6,14,168,
+2026-01-29,Hackney,Strength,18,13,1,0,4.9,15,180,
+2026-01-29,Hackney,Strength,18,12,1,0,4.8,15,165,
+2026-01-29,Ealing,Yoga,16,8,0,0,4.3,12,96,
+2026-01-29,Ealing,Pilates,16,8,0,0,4.9,14,112,"Really precise coaching, felt it in all the right places. Fee feels high for a 45 minute class."
+2026-01-31,Angel,Strength,24,18,1,0,4.2,15,255,
+2026-01-31,Angel,Strength,24,18,2,0,3.9,15,240,
+2026-01-31,Clapham,HIIT,20,17,2,1,3.8,16,240,Not my best class here. Far too intense with no real option to scale it down.
+2026-01-31,Clapham,Pilates,20,15,2,0,3.9,14,182,
+2026-01-31,Hackney,Strength,18,15,1,0,4.5,15,210,
+2026-01-31,Hackney,Strength,18,14,1,0,4.3,15,195,
+2026-01-31,Hackney,Spin,18,14,1,0,3.9,13,169,
+2026-01-31,Ealing,Spin,16,10,1,0,4.2,13,117,
+2026-01-31,Ealing,HIIT,16,10,1,0,4.7,16,144,
+2026-01-31,Ealing,Yoga,16,8,1,0,5.0,12,84,
+2026-02-02,Angel,HIIT,24,12,1,0,4.4,16,176,
+2026-02-02,Angel,Yoga,24,11,1,0,4.9,12,120,
+2026-02-02,Clapham,Spin,20,13,2,0,4.3,13,143,
+2026-02-02,Clapham,Yoga,20,11,1,0,3.8,12,120,Lovely instructor but the room felt cramped.
+2026-02-02,Clapham,Yoga,20,10,2,0,3.7,12,96,"Not my best class here. Another last-minute instructor swap, wasn't told in advance."
+2026-02-02,Hackney,Yoga,18,7,1,0,4.9,12,72,
+2026-02-02,Hackney,Yoga,18,9,1,0,4.0,12,96,
+2026-02-02,Ealing,Yoga,16,9,0,0,5.0,12,108,
+2026-02-02,Ealing,Yoga,16,9,0,0,4.2,12,108,
+2026-02-02,Ealing,Yoga,16,8,0,0,4.5,12,96,
+2026-02-04,Angel,Yoga,24,11,1,0,4.1,12,120,
+2026-02-04,Angel,Spin,24,14,1,0,4.8,13,169,
+2026-02-04,Clapham,Yoga,20,11,2,0,4.2,12,108,Fine workout but the late start has become a pattern. Lovely instructor but the room felt cramped.
+2026-02-04,Clapham,Strength,20,11,2,0,4.1,15,135,
+2026-02-04,Hackney,Strength,18,13,1,0,4.4,15,180,
+2026-02-04,Hackney,Pilates,18,9,1,0,4.0,14,112,
+2026-02-04,Hackney,Yoga,18,8,1,0,3.9,12,84,Left feeling a bit underwhelmed.
+2026-02-04,Ealing,Yoga,16,8,0,0,4.5,12,96,
+2026-02-04,Ealing,Spin,16,8,0,0,4.3,13,104,
+2026-02-04,Ealing,Strength,16,9,1,0,4.7,15,120,
+2026-02-06,Angel,Spin,24,15,1,0,4.5,13,182,
+2026-02-06,Angel,HIIT,24,15,1,0,4.3,16,224,
+2026-02-06,Clapham,HIIT,20,13,2,0,4.3,16,176,
+2026-02-06,Clapham,Spin,20,13,2,0,4.2,13,143,
+2026-02-06,Clapham,Spin,20,13,2,0,4.1,13,143,Fun ride but the playlist really wasn't for me.
+2026-02-06,Hackney,Yoga,18,8,1,0,4.5,12,84,
+2026-02-06,Hackney,Yoga,18,7,0,0,4.9,12,84,
+2026-02-06,Hackney,Spin,18,12,1,0,4.1,13,143,
+2026-02-06,Ealing,Strength,16,8,0,0,4.7,15,120,"Good coaching, but queuing for kit took too long."
+2026-02-06,Ealing,Spin,16,8,0,0,4.7,13,104,
+2026-02-06,Ealing,Yoga,16,8,1,0,4.2,12,84,
+2026-02-08,Angel,Yoga,24,13,1,0,4.2,12,144,
+2026-02-08,Angel,Spin,24,17,1,0,4.6,13,208,
+2026-02-08,Clapham,Strength,20,13,2,0,3.7,15,165,
+2026-02-08,Clapham,Yoga,20,11,2,0,4.4,12,108,
+2026-02-08,Hackney,Yoga,18,9,1,0,4.5,12,96,
+2026-02-08,Hackney,Pilates,18,9,1,0,4.0,14,112,"Too many people for the space, could barely move."
+2026-02-08,Ealing,HIIT,16,9,0,0,4.8,16,144,
+2026-02-08,Ealing,Strength,16,11,1,0,4.2,15,150,
+2026-02-10,Angel,Spin,24,14,1,0,4.6,13,169,Studio itself is lovely and bright.
+2026-02-10,Angel,Spin,24,12,1,0,4.8,13,143,
+2026-02-10,Clapham,Yoga,20,9,1,0,3.8,12,96,Felt a bit flat overall. Instructor started late and the class ran short.
+2026-02-10,Clapham,HIIT,20,12,2,0,4.2,16,160,
+2026-02-10,Clapham,HIIT,20,13,2,0,4.0,16,176,
+2026-02-10,Hackney,Strength,18,13,2,0,4.3,15,165,
+2026-02-10,Hackney,HIIT,18,18,2,1,4.2,16,256,"Brilliant intervals, the time went quickly."
+2026-02-10,Hackney,Yoga,18,8,1,0,4.2,12,84,
+2026-02-10,Ealing,Pilates,16,9,1,0,4.9,14,112,
+2026-02-10,Ealing,Spin,16,7,0,0,4.9,13,91,Great playlist and the resistance cues were spot on.
+2026-02-10,Ealing,HIIT,16,8,1,0,4.7,16,112,
+2026-02-12,Angel,Yoga,24,14,1,0,4.8,12,156,
+2026-02-12,Angel,Yoga,24,13,1,0,4.4,12,144,
+2026-02-12,Angel,HIIT,24,14,2,0,4.0,16,192,
+2026-02-12,Clapham,Spin,20,11,2,0,4.2,13,117,
+2026-02-12,Clapham,Spin,20,11,2,0,3.8,13,117,
+2026-02-12,Clapham,HIIT,20,12,2,0,4.5,16,160,Great workout but the music was too loud to hear the timings. Worth every penny.
+2026-02-12,Hackney,Yoga,18,8,1,0,3.9,12,84,
+2026-02-12,Hackney,Yoga,18,8,1,0,4.7,12,84,
+2026-02-12,Hackney,Strength,18,13,1,0,4.7,15,180,
+2026-02-12,Ealing,Spin,16,8,1,0,4.5,13,91,
+2026-02-12,Ealing,Yoga,16,8,1,0,4.7,12,84,
+2026-02-12,Ealing,Spin,16,9,1,0,4.5,13,104,
+2026-02-14,Angel,Spin,24,15,1,0,4.2,13,182,
+2026-02-14,Angel,HIIT,24,16,1,0,4.7,16,240,
+2026-02-14,Clapham,HIIT,20,14,2,0,4.1,16,192,
+2026-02-14,Clapham,Yoga,20,11,2,0,3.9,12,108,
+2026-02-14,Clapham,Pilates,20,14,2,0,4.5,14,168,
+2026-02-14,Hackney,Yoga,18,8,1,0,4.7,12,84,
+2026-02-14,Hackney,HIIT,18,18,2,3,4.8,16,256,"Waitlist never moves, please add another session."
+2026-02-14,Ealing,Yoga,16,9,1,0,4.4,12,96,"Good class, a few niggles. Love the studio, just wish there were more evening slots."
+2026-02-14,Ealing,Yoga,16,9,0,0,4.5,12,108,
+2026-02-14,Ealing,HIIT,16,10,1,0,4.2,16,144,
+2026-02-16,Angel,Pilates,24,24,2,2,4.8,14,308,
+2026-02-16,Angel,Spin,24,12,1,0,3.9,13,143,
+2026-02-16,Clapham,Spin,20,11,2,0,4.6,13,117,"Good class, a few niggles. Fine workout but the late start has become a pattern."
+2026-02-16,Clapham,Strength,20,11,2,0,3.7,15,135,
+2026-02-16,Hackney,Strength,18,13,1,0,4.5,15,180,
+2026-02-16,Hackney,HIIT,18,18,2,3,4.3,16,256,
+2026-02-16,Ealing,HIIT,16,8,0,0,4.5,16,128,
+2026-02-16,Ealing,Pilates,16,9,1,0,4.2,14,112,
+2026-02-18,Angel,Spin,24,14,1,0,4.1,13,169,
+2026-02-18,Angel,HIIT,24,11,1,0,4.0,16,160,
+2026-02-18,Angel,HIIT,24,12,1,0,4.4,16,176,
+2026-02-18,Clapham,Pilates,20,11,2,0,4.3,14,126,"Good class, a few niggles."
+2026-02-18,Clapham,HIIT,20,10,2,0,3.8,16,128,
+2026-02-18,Clapham,HIIT,20,11,2,0,4.7,16,144,Instructor pushed us without making anyone feel bad.
+2026-02-18,Hackney,Yoga,18,8,1,0,4.3,12,84,"Disappointing, to be honest. Far too hot in the studio, struggled to breathe."
+2026-02-18,Hackney,Pilates,18,9,1,0,4.1,14,112,
+2026-02-18,Ealing,HIIT,16,8,1,0,4.4,16,112,"Wish there were more evening classes, everything good is booked up."
+2026-02-18,Ealing,Yoga,16,7,0,0,5.0,12,84,"Lovely instructor but the room felt cramped. Love the studio, just wish there were more evening slots."
+2026-02-20,Angel,Spin,24,12,1,0,4.4,13,143,"Busy as always, but the classes are worth it."
+2026-02-20,Angel,Pilates,24,22,2,0,3.9,14,280,
+2026-02-20,Angel,HIIT,24,11,1,0,4.4,16,160,
+2026-02-20,Clapham,Strength,20,11,2,0,4.4,15,135,
+2026-02-20,Clapham,Pilates,20,12,2,0,4.6,14,140,
+2026-02-20,Hackney,Strength,18,12,1,0,3.8,15,165,
+2026-02-20,Hackney,Yoga,18,9,1,0,3.9,12,96,
+2026-02-20,Ealing,Spin,16,7,1,0,4.6,13,78,
+2026-02-20,Ealing,Yoga,16,8,0,0,4.9,12,96,
+2026-02-20,Ealing,Yoga,16,8,0,0,4.5,12,96,
+2026-02-22,Angel,HIIT,24,15,2,0,4.2,16,208,
+2026-02-22,Angel,HIIT,24,14,2,0,4.9,16,192,
+2026-02-22,Angel,HIIT,24,14,1,0,4.0,16,208,
+2026-02-22,Clapham,Yoga,20,11,2,0,3.8,12,108,Wouldn't rush to book this one again. Studio is a bit cramped for the size of the class.
+2026-02-22,Clapham,Spin,20,15,2,0,4.5,13,169,
+2026-02-22,Clapham,Yoga,20,13,2,0,3.9,12,132,Lovely instructor but the room felt cramped. Fine workout but the late start has become a pattern.
+2026-02-22,Hackney,Pilates,18,8,1,0,4.2,14,98,
+2026-02-22,Hackney,Yoga,18,9,1,0,4.4,12,96,
+2026-02-22,Ealing,Strength,16,8,1,0,4.5,15,105,"Good coaching, but queuing for kit took too long. Love the studio, just wish there were more evening slots."
+2026-02-22,Ealing,HIIT,16,10,1,0,4.4,16,144,
+2026-02-24,Angel,Spin,24,14,1,0,4.7,13,169,
+2026-02-24,Angel,Yoga,24,12,1,0,4.1,12,132,
+2026-02-24,Angel,Strength,24,12,1,0,4.6,15,165,
+2026-02-24,Clapham,Yoga,20,11,2,0,4.3,12,108,
+2026-02-24,Clapham,Yoga,20,11,2,0,3.7,12,108,
+2026-02-24,Hackney,HIIT,18,18,2,5,4.7,16,256,
+2026-02-24,Hackney,Strength,18,11,1,0,4.7,15,150,
+2026-02-24,Hackney,Strength,18,11,1,0,4.7,15,150,"Good class, a few niggles. Great energy but the heat in the room was a lot."
+2026-02-24,Ealing,Yoga,16,8,1,0,4.7,12,84,
+2026-02-24,Ealing,Pilates,16,8,1,0,5.0,14,98,
+2026-02-24,Ealing,Yoga,16,7,1,0,4.6,12,72,
+2026-02-26,Angel,HIIT,24,12,1,0,4.1,16,176,
+2026-02-26,Angel,Yoga,24,11,1,0,4.1,12,120,
+2026-02-26,Angel,Spin,24,13,1,0,4.7,13,156,
+2026-02-26,Clapham,Yoga,20,9,2,0,4.0,12,84,
+2026-02-26,Clapham,HIIT,20,10,2,0,4.1,16,128,
+2026-02-26,Hackney,Pilates,18,8,1,0,3.8,14,98,
+2026-02-26,Hackney,HIIT,18,16,2,0,4.3,16,224,
+2026-02-26,Hackney,Pilates,18,8,1,0,4.4,14,98,
+2026-02-26,Ealing,Yoga,16,7,1,0,4.3,12,72,
+2026-02-26,Ealing,Yoga,16,7,1,0,4.4,12,72,Mixed feelings about this one. Lovely instructor but the room felt cramped.
+2026-02-28,Angel,Spin,24,15,2,0,4.0,13,169,
+2026-02-28,Angel,Yoga,24,14,1,0,3.9,12,156,
+2026-02-28,Clapham,Strength,20,13,2,0,4.3,15,165,
+2026-02-28,Clapham,Pilates,20,14,3,0,4.3,14,154,
+2026-02-28,Clapham,Yoga,20,12,2,0,4.7,12,120,
+2026-02-28,Hackney,HIIT,18,18,2,11,4.3,16,256,Music so loud I couldn't hear the instructions.
+2026-02-28,Hackney,Pilates,18,10,1,0,4.1,14,126,
+2026-02-28,Ealing,Yoga,16,9,1,0,4.7,12,96,
+2026-02-28,Ealing,Spin,16,10,1,0,4.4,13,117,
+2026-03-02,Angel,HIIT,24,12,2,0,4.8,16,160,"Brilliant intervals, the time went quickly. Studio itself is lovely and bright."
+2026-03-02,Angel,Pilates,24,22,2,1,4.8,14,280,
+2026-03-02,Angel,Spin,24,11,1,0,4.6,13,130,
+2026-03-02,Clapham,Yoga,20,11,2,0,4.2,12,108,
+2026-03-02,Clapham,Yoga,20,11,2,0,3.7,12,108,"Another last-minute instructor swap, wasn't told in advance."
+2026-03-02,Hackney,Yoga,18,7,1,0,4.4,12,72,
+2026-03-02,Hackney,Strength,18,12,1,0,3.9,15,165,"Racks were all taken, had to improvise the session. Fee feels high for a 45 minute class."
+2026-03-02,Ealing,HIIT,16,8,1,0,4.9,16,112,
+2026-03-02,Ealing,Spin,16,7,0,0,4.8,13,91,
+2026-03-04,Angel,Spin,24,11,1,0,4.0,13,130,
+2026-03-04,Angel,Yoga,24,12,1,0,4.9,12,132,
+2026-03-04,Clapham,Pilates,20,12,3,0,4.4,14,126,
+2026-03-04,Clapham,Pilates,20,10,2,0,4.5,14,112,
+2026-03-04,Hackney,Strength,18,11,1,0,4.1,15,150,
+2026-03-04,Hackney,HIIT,18,17,2,1,4.7,16,240,"Fine overall, could be better. Great energy but the heat in the room was a lot."
+2026-03-04,Hackney,Yoga,18,8,1,0,4.7,12,84,
+2026-03-04,Ealing,Strength,16,8,1,0,4.7,15,105,
+2026-03-04,Ealing,Strength,16,7,1,0,4.9,15,90,
+2026-03-06,Angel,Yoga,24,12,1,0,4.3,12,132,
+2026-03-06,Angel,Yoga,24,11,1,0,4.4,12,120,
+2026-03-06,Angel,HIIT,24,13,2,0,4.1,16,176,
+2026-03-06,Clapham,Strength,20,10,2,0,4.7,15,120,
+2026-03-06,Clapham,Spin,20,12,2,0,4.0,13,130,"Expected more for the price. Started ten minutes late and finished on time, so we lost out."
+2026-03-06,Clapham,Pilates,20,10,2,0,4.1,14,112,
+2026-03-06,Hackney,Spin,18,12,1,0,4.5,13,143,
+2026-03-06,Hackney,Spin,18,10,1,0,4.7,13,117,
+2026-03-06,Ealing,Pilates,16,7,1,0,5.0,14,84,
+2026-03-06,Ealing,Pilates,16,8,1,0,4.3,14,98,"Left feeling a bit underwhelmed. Too many people for the space, could barely move."
+2026-03-08,Angel,Strength,24,14,2,0,4.2,15,180,Felt a bit flat overall. Coach spent most of the time with one person.
+2026-03-08,Angel,Spin,24,14,1,0,4.6,13,169,
+2026-03-08,Clapham,Spin,20,13,3,0,4.2,13,130,
+2026-03-08,Clapham,Pilates,20,14,3,0,3.8,14,154,"Reminder email would have helped, I forgot I'd booked."
+2026-03-08,Hackney,Spin,18,12,1,0,4.7,13,143,
+2026-03-08,Hackney,Yoga,18,10,1,0,4.6,12,108,"Enjoyed the workout, less keen on everything around it. Lovely instructor but the room felt cramped."
+2026-03-08,Ealing,Yoga,16,8,1,0,4.8,12,84,
+2026-03-08,Ealing,Strength,16,7,0,0,4.4,15,105,
+2026-03-10,Angel,Spin,24,12,2,0,3.9,13,130,
+2026-03-10,Angel,Spin,24,12,1,0,4.0,13,143,Studio felt overcrowded.
+2026-03-10,Angel,Strength,24,11,1,0,4.5,15,150,
+2026-03-10,Clapham,HIIT,20,10,2,0,4.7,16,128,
+2026-03-10,Clapham,Yoga,20,9,2,0,3.8,12,84,
+2026-03-10,Clapham,Pilates,20,11,3,0,4.0,14,112,Forgot to cancel and felt bad about the empty spot.
+2026-03-10,Hackney,HIIT,18,17,2,3,4.0,16,240,
+2026-03-10,Hackney,HIIT,18,18,2,8,4.8,16,256,"Brilliant atmosphere, everyone gets stuck in."
+2026-03-10,Ealing,Spin,16,7,1,0,4.8,13,78,
+2026-03-10,Ealing,HIIT,16,8,1,0,5.0,16,112,
+2026-03-10,Ealing,HIIT,16,6,1,0,4.7,16,80,
+2026-03-12,Angel,HIIT,24,11,1,0,4.1,16,160,
+2026-03-12,Angel,Spin,24,12,2,0,4.5,13,130,
+2026-03-12,Clapham,Spin,20,10,2,0,4.1,13,104,
+2026-03-12,Clapham,Yoga,20,10,2,0,3.7,12,96,
+2026-03-12,Hackney,Pilates,18,8,1,0,4.5,14,98,"Left feeling great. Brilliant atmosphere, everyone gets stuck in."
+2026-03-12,Hackney,HIIT,18,15,2,1,4.1,16,208,"Far too hot in the studio, struggled to breathe."
+2026-03-12,Ealing,Yoga,16,7,1,0,5.0,12,72,
+2026-03-12,Ealing,Yoga,16,8,1,0,4.5,12,84,
+2026-03-12,Ealing,HIIT,16,8,1,0,4.2,16,112,
+2026-03-14,Angel,Spin,24,13,2,0,4.0,13,143,
+2026-03-14,Angel,Spin,24,15,2,0,4.8,13,169,
+2026-03-14,Angel,Strength,24,14,2,0,4.6,15,180,"Really enjoyed it. Felt safe lifting here, coach was attentive."
+2026-03-14,Clapham,Spin,20,13,3,0,4.1,13,130,
+2026-03-14,Clapham,Yoga,20,10,2,0,4.5,12,96,
+2026-03-14,Hackney,Pilates,18,8,1,0,3.8,14,98,"Decent session with a couple of annoyances. Liked the instructor, wished there were more equipment to go round."
+2026-03-14,Hackney,Pilates,18,8,1,0,3.9,14,98,
+2026-03-14,Ealing,HIIT,16,8,1,0,5.0,16,112,
+2026-03-14,Ealing,Yoga,16,8,1,0,4.4,12,84,The final relaxation was the best part.
+2026-03-14,Ealing,Yoga,16,8,1,0,5.0,12,84,
+2026-03-16,Angel,HIIT,24,12,2,0,4.3,16,160,
+2026-03-16,Angel,Spin,24,11,1,0,4.2,13,130,Okay but nothing special. Resistance knob was stiff on the bike I was given.
+2026-03-16,Clapham,Spin,20,12,3,0,4.0,13,117,Booking app kept showing space when the class was full.
+2026-03-16,Clapham,HIIT,20,11,2,0,4.1,16,144,
+2026-03-16,Hackney,Yoga,18,8,1,0,4.8,12,84,
+2026-03-16,Hackney,HIIT,18,16,2,0,4.0,16,224,
+2026-03-16,Ealing,HIIT,16,8,1,0,5.0,16,112,
+2026-03-16,Ealing,Pilates,16,8,1,0,4.8,14,98,
+2026-03-16,Ealing,Strength,16,7,1,0,5.0,15,90,
+2026-03-18,Angel,HIIT,24,13,2,0,4.4,16,176,Showers were queuing out of the door again. Music so loud I couldn't hear the instructions.
+2026-03-18,Angel,Yoga,24,12,2,0,4.8,12,120,
+2026-03-18,Angel,Yoga,24,14,2,0,3.9,12,144,
+2026-03-18,Clapham,Yoga,20,11,3,0,4.2,12,96,
+2026-03-18,Clapham,Spin,20,10,2,0,4.3,13,104,
+2026-03-18,Hackney,HIIT,18,18,2,2,4.2,16,256,
+2026-03-18,Hackney,Spin,18,10,1,0,4.0,13,117,Decent session with a couple of annoyances. Great energy but the heat in the room was a lot.
+2026-03-18,Ealing,HIIT,16,6,1,0,4.9,16,80,
+2026-03-18,Ealing,Yoga,16,7,1,0,4.9,12,72,
+2026-03-20,Angel,Pilates,24,18,3,0,3.8,14,210,Class felt rushed and the corrections were too few.
+2026-03-20,Angel,Strength,24,11,2,0,4.6,15,135,
+2026-03-20,Angel,Spin,24,11,1,0,4.4,13,130,Bikes were set up properly and the class was well paced.
+2026-03-20,Clapham,HIIT,20,10,2,0,3.9,16,128,
+2026-03-20,Clapham,Pilates,20,11,2,0,4.6,14,126,"Liked the instructor, wished there were more equipment to go round. Fine workout but the late start has become a pattern."
+2026-03-20,Clapham,Yoga,20,11,3,0,3.7,12,96,
+2026-03-20,Hackney,HIIT,18,18,3,6,3.9,16,240,Far too intense with no real option to scale it down. Floor was sticky and the studio smelled a bit stale.
+2026-03-20,Hackney,HIIT,18,18,2,3,4.1,16,256,
+2026-03-20,Hackney,Pilates,18,8,1,0,4.3,14,98,
+2026-03-20,Ealing,Yoga,16,7,1,0,4.6,12,72,
+2026-03-20,Ealing,Spin,16,7,1,0,4.6,13,78,
+2026-03-22,Angel,Yoga,24,16,2,0,4.1,12,168,
+2026-03-22,Angel,Spin,24,14,2,0,4.3,13,156,
+2026-03-22,Clapham,Pilates,20,12,2,0,3.8,14,140,
+2026-03-22,Clapham,Yoga,20,13,3,0,4.5,12,120,
+2026-03-22,Hackney,Pilates,18,9,1,0,4.1,14,112,
+2026-03-22,Hackney,Pilates,18,9,1,0,4.1,14,112,
+2026-03-22,Hackney,Spin,18,11,1,0,4.1,13,130,
+2026-03-22,Ealing,Spin,16,9,1,0,4.6,13,104,"Lovely quiet studio, never feels rushed."
+2026-03-22,Ealing,Spin,16,7,1,0,5.0,13,78,
+2026-03-22,Ealing,Yoga,16,7,1,0,4.9,12,72,
+2026-03-24,Angel,Strength,24,10,2,0,4.3,15,120,
+2026-03-24,Angel,Yoga,24,12,1,0,4.5,12,132,
+2026-03-24,Angel,Pilates,24,22,3,2,4.4,14,266,Cancelled in time but still got charged the late fee.
+2026-03-24,Clapham,Yoga,20,11,2,0,4.2,12,108,
+2026-03-24,Clapham,HIIT,20,11,3,0,4.7,16,128,Always a friendly crowd at this studio.
+2026-03-24,Hackney,Strength,18,12,2,0,4.3,15,150,"Great energy in the room. Brilliant atmosphere, everyone gets stuck in."
+2026-03-24,Hackney,Yoga,18,7,1,0,4.2,12,72,
+2026-03-24,Ealing,Pilates,16,8,1,0,5.0,14,98,
+2026-03-24,Ealing,Yoga,16,6,1,0,5.0,12,60,
+2026-03-24,Ealing,HIIT,16,7,1,0,5.0,16,96,Class flew by. Instructor pushed us without making anyone feel bad.
+2026-03-26,Angel,Spin,24,10,1,0,3.9,13,117,Resistance knob was stiff on the bike I was given.
+2026-03-26,Angel,Spin,24,11,1,0,4.8,13,130,
+2026-03-26,Clapham,Spin,20,11,2,0,4.6,13,117,
+2026-03-26,Clapham,Spin,20,9,2,0,4.7,13,91,
+2026-03-26,Hackney,Yoga,18,8,1,0,4.9,12,84,
+2026-03-26,Hackney,Pilates,18,7,1,0,4.2,14,84,
+2026-03-26,Hackney,Pilates,18,7,1,0,4.1,14,84,
+2026-03-26,Ealing,HIIT,16,7,1,0,4.7,16,96,
+2026-03-26,Ealing,HIIT,16,6,1,0,4.6,16,80,
+2026-03-28,Angel,Spin,24,13,2,0,3.8,13,143,Okay but nothing special. Changing room was packed and the lockers were all taken.
+2026-03-28,Angel,Pilates,24,24,3,8,4.1,14,294,"Too many people for the space, could barely move. Studio felt overcrowded."
+2026-03-28,Angel,Yoga,24,16,2,0,4.8,12,168,
+2026-03-28,Clapham,Strength,20,11,2,0,3.7,15,135,"Not enough weights to go round, lots of waiting."
+2026-03-28,Clapham,Spin,20,13,3,0,4.7,13,130,
+2026-03-28,Hackney,Spin,18,12,2,0,3.9,13,130,"Disappointing, to be honest. Instructor barely explained the setup for new riders."
+2026-03-28,Hackney,Pilates,18,8,1,0,4.7,14,98,
+2026-03-28,Ealing,Yoga,16,9,1,0,4.2,12,96,
+2026-03-28,Ealing,Pilates,16,9,1,0,4.5,14,112,
+2026-03-28,Ealing,Yoga,16,8,1,0,4.7,12,84,"Great for a first yoga class, nobody rushed me."
